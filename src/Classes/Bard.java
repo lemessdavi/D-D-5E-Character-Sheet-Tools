@@ -1,5 +1,5 @@
 package Classes;
 
-public class Bard {
+public class Bard implements Class {
 
 }

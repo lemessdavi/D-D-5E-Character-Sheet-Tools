@@ -1,5 +1,5 @@
 package Classes;
 
-public class Fighter {
+public class Fighter implements Class  {
 
 }

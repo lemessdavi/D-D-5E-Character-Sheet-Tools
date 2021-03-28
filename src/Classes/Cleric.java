@@ -1,5 +1,5 @@
 package Classes;
 
-public class Cleric {
+public class Cleric implements Class  {
 
 }

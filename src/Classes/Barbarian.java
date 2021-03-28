@@ -1,5 +1,5 @@
 package Classes;
 
-public class Barbarian extends Class {
+public class Barbarian implements Class  {
 
 }
